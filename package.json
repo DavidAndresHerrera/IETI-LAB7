@@ -1,0 +1,19 @@
+{
+  "name": "ieti-lab7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidAndresHerrera/IETI-LAB7.git"
+  },
+  "author": "David Herrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidAndresHerrera/IETI-LAB7/issues"
+  },
+  "homepage": "https://github.com/DavidAndresHerrera/IETI-LAB7#readme"
+}
